@@ -117,19 +117,17 @@ The goal is to become a trusted project coordinator and strategic partner.
 
 ```text
 MikeHQ/
-
+├── BOOTSTRAP.md
+├── README.md
 ├── ORGANIZATIONS/
 │   ├── MissionCo/
 │   ├── RebichLLC/
 │   └── HillCityChurch/
-│
 ├── PROJECTS/
 │   ├── Health/
 │   ├── Golf/
 │   ├── Finance/
-│   ├── Home/
-│   └── ...
-│
+│   └── Home/
 ├── KNOWLEDGE/
 ├── MEETINGS/
 ├── DAILY/
